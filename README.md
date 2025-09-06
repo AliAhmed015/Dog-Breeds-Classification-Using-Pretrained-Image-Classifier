@@ -15,8 +15,7 @@ This project demonstrates practical use of **transfer learning**, **modular prog
 - [Usage](#usage)  
   - [Command-Line Arguments](#command-line-arguments)  
 - [Requirements](#requirements)  
-- [Installation](#installation)  
-- [Prepare Your Dataset](#prepare-your-dataset)  
+- [Installation](#installation) 
 - [Evaluation Metrics](#evaluation-metrics)  
 
 ---
