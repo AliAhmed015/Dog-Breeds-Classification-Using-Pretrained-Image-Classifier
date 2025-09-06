@@ -107,15 +107,11 @@ The following pretrained models are supported via `torchvision.models`:
 ```bash
 git clone https://github.com/yourusername/dog-breed-classifier.git
 cd dog-breed-classifier
-
 pip install torch torchvision numpy pillow
-
-## Prepare Your Dataset
-
-- Place your test images inside the `pet_images/` folder.
-- Ensure `dognames.txt` contains one dog breed name per line, all lowercase.
+```
 
 ---
+
 
 ## Evaluation Metrics
 
