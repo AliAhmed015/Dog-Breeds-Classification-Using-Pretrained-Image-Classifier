@@ -1,5 +1,7 @@
 # Dog Breed Classifier Using Pretrained CNN Models
 
+**This project was developed as part of the Future AWS AI Scientist Nanodegree.**
+
 This is a Python command-line application that classifies pet images using pretrained Convolutional Neural Networks (CNNs). The tool compares the predicted labels with true labels extracted from image filenames, identifies whether the image represents a dog, and evaluates the performance of different model architectures.
 
 This project demonstrates practical use of **transfer learning**, **modular programming**, and **command-line interface (CLI) design**, and was developed as part of an AI curriculum.
