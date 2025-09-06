@@ -88,6 +88,8 @@ The following pretrained models are supported via `torchvision.models`:
 | `--arch`       | CNN model to use: `vgg`, `resnet`, or `alexnet`  | `vgg`           |
 | `--dogfile`    | Text file with list of valid dog breed names     | `dognames.txt`  |
 
+---
+
 ## Requirements
 
 - Python 3.6 or higher  
